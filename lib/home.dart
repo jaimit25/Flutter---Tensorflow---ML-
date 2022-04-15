@@ -2,7 +2,7 @@ import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
 import 'package:tensorflow/main.dart';
 import 'package:tflite/tflite.dart';
-
+// https://teachablemachine.withgoogle.com/train/tiny_image
 class Home extends StatefulWidget {
   @override
   State<Home> createState() => _HomeState();
